@@ -1,0 +1,5 @@
+_test
+.venv
+PROJECT_PLAN.md
+spotify_dashboard.code-workspace
+**/__pycache__
